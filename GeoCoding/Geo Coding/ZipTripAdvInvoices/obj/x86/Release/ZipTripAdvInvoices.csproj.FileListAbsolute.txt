@@ -1,0 +1,6 @@
+D:\Applications\SQL BI Projects\Zip Trip Invoices\ZipTripAdvInvoices\ZipTripAdvInvoices\bin\Release\ZipTripAdvInvoices.exe
+D:\Applications\SQL BI Projects\Zip Trip Invoices\ZipTripAdvInvoices\ZipTripAdvInvoices\bin\Release\ZipTripAdvInvoices.pdb
+D:\Applications\SQL BI Projects\Zip Trip Invoices\ZipTripAdvInvoices\ZipTripAdvInvoices\bin\Release\psgSQLHelper.dll
+D:\Applications\SQL BI Projects\Zip Trip Invoices\ZipTripAdvInvoices\ZipTripAdvInvoices\bin\Release\psgSQLHelper.pdb
+D:\Applications\SQL BI Projects\Zip Trip Invoices\ZipTripAdvInvoices\ZipTripAdvInvoices\obj\x86\Release\ZipTripAdvInvoices.exe
+D:\Applications\SQL BI Projects\Zip Trip Invoices\ZipTripAdvInvoices\ZipTripAdvInvoices\obj\x86\Release\ZipTripAdvInvoices.pdb

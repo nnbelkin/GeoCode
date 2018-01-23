@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "01005",
+               "short_name" : "01005",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Barre",
+               "short_name" : "Barre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worcester County",
+               "short_name" : "Worcester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barre, MA 01005, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.484473,
+                  "lng" : -72.02117400000002
+               },
+               "southwest" : {
+                  "lat" : 42.356423,
+                  "lng" : -72.205174
+               }
+            },
+            "location" : {
+               "lat" : 42.4228364,
+               "lng" : -72.1050843
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.484473,
+                  "lng" : -72.02117400000002
+               },
+               "southwest" : {
+                  "lat" : 42.356423,
+                  "lng" : -72.205174
+               }
+            }
+         },
+         "place_id" : "ChIJ93GTEVFS4YkRWGwp-GGGfPs",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barre",
+               "short_name" : "Barre",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Barre",
+               "short_name" : "Barre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barre Town",
+               "short_name" : "Barre Town",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Worcester County",
+               "short_name" : "Worcester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01005",
+               "short_name" : "01005",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barre, Barre, MA 01005, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4375948,
+                  "lng" : -72.09444689999999
+               },
+               "southwest" : {
+                  "lat" : 42.407863,
+                  "lng" : -72.1237941
+               }
+            },
+            "location" : {
+               "lat" : 42.4228679,
+               "lng" : -72.10507869999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4375948,
+                  "lng" : -72.09444689999999
+               },
+               "southwest" : {
+                  "lat" : 42.407863,
+                  "lng" : -72.1237941
+               }
+            }
+         },
+         "place_id" : "ChIJ38QYIEJS4YkRDYEC7AOyv1c",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

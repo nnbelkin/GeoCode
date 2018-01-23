@@ -1,0 +1,25 @@
+D:\Applications\SQL BI Projects\Zip Trip Invoices\ZipTripAdvInvoices\ZipTripAdvInvoices\bin\Release\psgSQLHelper.dll
+D:\Applications\SQL BI Projects\Zip Trip Invoices\ZipTripAdvInvoices\ZipTripAdvInvoices\bin\Release\psgSQLHelper.pdb
+D:\Applications\SQL BI Projects\Zip Trip Invoices\ZipTripAdvInvoices\ZipTripAdvInvoices\bin\Release\GeoCode.exe
+D:\Applications\SQL BI Projects\Zip Trip Invoices\ZipTripAdvInvoices\ZipTripAdvInvoices\bin\Release\GeoCode.pdb
+D:\Applications\SQL BI Projects\Zip Trip Invoices\ZipTripAdvInvoices\ZipTripAdvInvoices\obj\x86\Release\GeoCode.exe
+D:\Applications\SQL BI Projects\Zip Trip Invoices\ZipTripAdvInvoices\ZipTripAdvInvoices\obj\x86\Release\GeoCode.pdb
+D:\Applications\SQL BI Projects\Zip Trip Invoices\ZipTripAdvInvoices\ZipTripAdvInvoices\bin\Release\Newtonsoft.Json.dll
+D:\Applications\SQL BI Projects\Zip Trip Invoices\ZipTripAdvInvoices\ZipTripAdvInvoices\bin\Release\Newtonsoft.Json.xml
+D:\Applications\SQL BI Projects\Geo Coding\Geo Coding\ZipTripAdvInvoices\obj\x86\Release\GeoCode.exe
+D:\Applications\SQL BI Projects\Geo Coding\Geo Coding\ZipTripAdvInvoices\obj\x86\Release\GeoCode.pdb
+D:\Applications\SQL BI Projects\Geo Coding\Geo Coding\ZipTripAdvInvoices\bin\Release\GeoCode.exe
+D:\Applications\SQL BI Projects\Geo Coding\Geo Coding\ZipTripAdvInvoices\bin\Release\GeoCode.pdb
+D:\Applications\SQL BI Projects\Geo Coding\Geo Coding\ZipTripAdvInvoices\bin\Release\Newtonsoft.Json.dll
+D:\Applications\SQL BI Projects\Geo Coding\Geo Coding\ZipTripAdvInvoices\bin\Release\psgSQLHelper.dll
+D:\Applications\SQL BI Projects\Geo Coding\Geo Coding\ZipTripAdvInvoices\bin\Release\Newtonsoft.Json.xml
+D:\Applications\SQL BI Projects\Geo Coding\Geo Coding\ZipTripAdvInvoices\bin\Release\psgSQLHelper.pdb
+E:\_Applications\SQL BI Projects\Geo Coding\Geo Coding\ZipTripAdvInvoices\obj\x86\Release\GeoCode.exe
+E:\_Applications\SQL BI Projects\Geo Coding\Geo Coding\ZipTripAdvInvoices\obj\x86\Release\GeoCode.pdb
+E:\_Applications\SQL BI Projects\GeoCoding\Geo Coding\ZipTripAdvInvoices\obj\x86\Release\GeoCode.exe
+E:\_Applications\SQL BI Projects\GeoCoding\Geo Coding\ZipTripAdvInvoices\obj\x86\Release\GeoCode.pdb
+E:\_Applications\SQL BI Projects\GeoCoding\Geo Coding\ZipTripAdvInvoices\bin\Release\GeoCode.exe
+E:\_Applications\SQL BI Projects\GeoCoding\Geo Coding\ZipTripAdvInvoices\bin\Release\GeoCode.pdb
+E:\_Applications\SQL BI Projects\GeoCoding\Geo Coding\ZipTripAdvInvoices\bin\Release\Newtonsoft.Json.xml
+E:\_Applications\SQL BI Projects\GeoCoding\Geo Coding\ZipTripAdvInvoices\bin\Release\psgSQLHelper.pdb
+E:\_Applications\SQL BI Projects\GeoCoding\Geo Coding\ZipTripAdvInvoices\obj\x86\Release\GeoCode.csprojResolveAssemblyReference.cache
